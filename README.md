@@ -1,2 +1,4 @@
+
 # Aulas_Python_2023
-Aulas de Python 2023
+
+Estamos criando nosso primeiro reposi  no **GitHub**.
